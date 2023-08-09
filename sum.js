@@ -1,4 +1,4 @@
-let a= 1;
+let a= 45;
 let b= 4;
  function sum() {
     return a+b;   
